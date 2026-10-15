@@ -1,0 +1,14 @@
+{
+  "question": "What is RAG?",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Example source (synthetic)",
+      "url": "https://example.org/demo",
+      "excerpt": "RAG combines retrieval with generation."
+    }
+  ],
+  "draft": "RAG combines retrieval with generation [S1].",
+  "audit": "SUPPORTED: This is directly stated in the synthetic excerpt [S1].",
+  "report": "# What is RAG?\n\n## Executive summary\n\nRetrieval-augmented generation combines retrieval with generation [S1].\n\n## Limitations\n\nThis is an offline synthetic example, not live research.\n\n## References\n\n- [S1] [Example source (synthetic)](https://example.org/demo)\n"
+}
